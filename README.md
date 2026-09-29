@@ -1,2 +1,4 @@
 # git-workflow-practice
-Hands-on playground for practicing Git workflows, branch management, pull requests etc
+Hands-on repository for exploring core Git commands, handling branches, opening pull requests, and merging code smoothly.
+
+Author - Harshpreet Kaur
